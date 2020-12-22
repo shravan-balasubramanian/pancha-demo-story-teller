@@ -2,7 +2,7 @@
   <div class="container">
     <div class="fun-form-btn">
       <button @click="setRandomStory">
-        Tell a story
+        Tell a story!!!
       </button>
     </div>
     <div class="some-story" v-if="!isLoading">
