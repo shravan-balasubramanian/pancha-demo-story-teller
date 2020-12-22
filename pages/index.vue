@@ -16,7 +16,7 @@
 </template>
 
 <script>
-const BASE_URL = 'https://sample-nodejs-4u8rr.ondigitalocean.app/';
+const BASE_URL = 'https://sample-nodejs-o5f4g.ondigitalocean.app/';
 
 export default {
   name: 'digitalOceanApp',
